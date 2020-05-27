@@ -230,7 +230,6 @@ preference.Shipments = shipments;
 Puedes simular costos desde la calculadora de envíos. Para hacerlo, debes reemplazar los valores de `sellerId`, `shippingMethod Id`, `price`, `zipCode`, `altoxanchoxlargo,peso` de tu paquete.
 
 > https://api.mercadolibre.com/users/_sellerId_/shipping_options?free_method=_shippingMethodId_&item_price=_price_&zip_code=_zipCode_&dimensions=_alto_x_ancho_x_largo_,_peso
->>>>>>> 7d96aa43deafb587eb46819a00f36ed9bf5b6d20
 
 
 [[[
